@@ -12,8 +12,8 @@ import (
 
 var directives = []string{
 	"bind",
-	"forward",
 	"dns64",
+	"forward",
 	"nat64-rdns",
 }
 
